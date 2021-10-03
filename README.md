@@ -1,4 +1,5 @@
 <h1 align="center"> Hacktoberfest 2021 </h1>
+<h4 align="center">Images, Reviews, Suggetions, Your Contributions</h4>
 <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg">
 
 ***
@@ -13,11 +14,13 @@
 
 ## Rules To Contribute To This Repo
 
--   Any C,C++,PHP,PY,Sh,JAVA,RUBY,JAVASC, Etc.. 
--   Anything valuable.
--   Or Contrubute any tool / pages
+-   If you have any images of hactoberfest experience or stuffs you can add in Images folder!
+-   What is you thaught about Hactoberfest. You can write your Review inside Correct Folder!
+-   If you want to suggest anything about Open source or Hactoberfest you can do it!
+-   List out all of your contributions to open source or hactoberfest, You can add images also!
 
 ## Steps For Contribution
+<img src="https://github.com/Hacktoberfest2/Hactoberfest2021/blob/main/Images/Steps.png">
 
     1. Fork this repo
     2. Star this repo
