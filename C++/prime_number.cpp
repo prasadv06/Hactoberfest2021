@@ -1,31 +1,20 @@
-#include <iostream>
-using namespace std;
-
-int main()
-{ 
-    int t;
-    cin>>t;
-    while(t--)
-    {
-    int n, i, c = 0;
-    
-    cout << "Enter any number: "; 
-    cin>>n;
-    
-    for (i = 1; i <= n; i++)
-    {
-        if (n % i == 0)
-        {
-           c++;
-        }
-    }
-    if (c == 2)
-    {
-       cout << n <<" is a Prime number" << endl;
-    }
-    else
-    {
-     cout << n <<" is not a Prime number" << endl;
-    }
-    }
+#include<iostream>
+using namespace std ;
+int main(){
+	int n, i ;
+	cout<< "enter no. :" ;
+	cin >> n ;
+	if(n==1){
+		cout<<"it is not a prime no. " ;
+	}
+	for(int i=2;i<n;i++){
+		if(n%i==0){
+			cout<< "it is not a prime no. " ;
+		}
+			else {
+				cout << "it is a prime no. " ;
+			}
+			break ;
+		}
+	return 0 ;
 }
